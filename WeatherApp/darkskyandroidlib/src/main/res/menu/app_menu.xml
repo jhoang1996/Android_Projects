@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+         <item android:id="@+id/five_hours"
+                android:title="Next Five Hours" />
+            <item android:id="@+id/day_by_day"
+                android:title="Upcoming Week Day-by-Day" />
+</menu>
